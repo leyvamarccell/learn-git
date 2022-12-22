@@ -1,0 +1,36 @@
+commit c3a87b4fe9224308522eb657adc2216377b830fa
+Author: Marcel Leyva <leyva.marccel@gmail.com>
+Date:   Mon Dec 19 22:55:25 2022 +0100
+
+    Delete padding on the css
+
+commit c62a2e3018b04782515e64eda72a4a35c59835ca
+Merge: 162c39c 623610e
+Author: Marcel Leyva <leyva.marccel@gmail.com>
+Date:   Mon Dec 19 22:49:58 2022 +0100
+
+    S
+
+commit 623610e69eb444dc2829b4e63557dee465bed34a
+Author: Marcel Leyva <leyva.marccel@gmail.com>
+Date:   Mon Dec 19 22:32:19 2022 +0100
+
+    Cambios desde css
+
+commit 162c39c311e0d1844593ba0c7d02631429270fe2
+Author: Marcel Leyva <leyva.marccel@gmail.com>
+Date:   Mon Dec 19 22:29:27 2022 +0100
+
+    Segundo commit desde main
+
+commit f5b60ab3a29a0ad270635a3cf3eb9c3607d948c4
+Author: Marcel Leyva <leyva.marccel@gmail.com>
+Date:   Mon Dec 19 22:21:20 2022 +0100
+
+    commit from css
+
+commit b16d194fdc3c75fd6be85f41715eb76491be1a1f
+Author: Marcel Leyva <leyva.marccel@gmail.com>
+Date:   Mon Dec 19 22:16:48 2022 +0100
+
+    first commit
